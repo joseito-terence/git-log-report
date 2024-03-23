@@ -121,7 +121,7 @@ const args = minimist(process.argv.slice(2), {
   },
   boolean: ['help'],
   default: {
-    output: './output'
+    output: '.'
   }
 });
 
