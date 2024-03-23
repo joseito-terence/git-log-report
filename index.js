@@ -41,7 +41,7 @@ ${chalk.bold('Options:')}
   ${chalk.bold('-u, --until  <date>')}         Show commits until date (format: YYYY-MM-DD or YYYY-MM-DD HH:MM)
 
 ${chalk.bold('Examples:')}
-  'npx git-log-report --since=\'2024-03-20\' --until=\'2024-03-22\' --output=\'./output_directory\'
+  npx git-log-report --since=\'2024-03-20\' --until=\'2024-03-22\' --output=\'./output_directory\'
 `);
 }
 
