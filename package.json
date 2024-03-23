@@ -1,7 +1,7 @@
 {
   "name": "git-log-report",
   "version": "1.0.0",
-  "description": "",
+  "description": "A command line tool to get commits for the current author grouped by day.",
   "main": "index.js",
   "type": "module",
   "scripts": {
